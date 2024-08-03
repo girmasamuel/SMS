@@ -18,7 +18,7 @@ This is a simple Student Management System,built using Python. It runs entirely 
 
 3. **Navigate to the project directory:**
    ```bash
-   cd student_management_system
+   cd student-management-system
    
 4. **Run the main script:**
     ```bash
