@@ -14,7 +14,7 @@ This is a simple Student Management System,built using Python. It runs entirely 
 1. **Clone the repository:**
          
       ```bash
-   git clone https://github.com/girmasamuel/student-management-system.git```
+   git clone https://github.com/girmasamuel/student-management-system.git
 
 3. **Navigate to the project directory:**
    ```bash
