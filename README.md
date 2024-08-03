@@ -13,13 +13,14 @@ This is a simple Student Management System,built using Python. It runs entirely 
 
 1. **Clone the repository:**
          
-      ```git clone https://github.com/girmasamuel/student-management-system.git```
+      ```bash
+   git clone https://github.com/girmasamuel/student-management-system.git```
 
-2. **Navigate to the project directory:**
+3. **Navigate to the project directory:**
    ```bash
    cd student_management_system
    
-3. **Run the main script:**
+4. **Run the main script:**
     ```bash
     python3 main.py
 
